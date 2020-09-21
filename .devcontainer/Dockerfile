@@ -1,0 +1,1 @@
+FROM thandotettey/devcontainer AS terraform-container
